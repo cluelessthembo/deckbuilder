@@ -1,2 +1,2 @@
 # deckbuilder
-rust; amethyst; deckbuilder; barebones;
+rust; amethyst; deckbuilder; bare-bones;
